@@ -16,3 +16,4 @@ configure do
   set(:database, { adapter: "sqlite3", database: "db/development.sqlite3" })
 end
 ```
+#test <script src="https://gist.github.com/bellarosewilson/01760c510220386c7a28d61767714973.js"></script>
